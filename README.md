@@ -1,7 +1,7 @@
 # RepositorioCorporativo
-Contiene el código de nuestra corporación
+Contiene el código de aplicaciones de nuestra corporación
 
 
 # Contenido
 
-- Código para la web de venta de productos
+- Este Repoo contiene el código fuente oficial para la web de venta de productos
